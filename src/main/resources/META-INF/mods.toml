@@ -1,0 +1,13 @@
+modLoader="javafml" #mandatory
+loaderVersion="[36,)" #mandatory
+license="All rights reserved" #mandatory https://choosealicense.com/
+ 
+[[mods]] #mandatory
+modId="eventslootbags" #mandatory
+version="1.0.0" #mandatory
+displayName="Event's Lootbags" #mandatory
+logoFile="examplemod.png" #optional
+authors="MCEventHorizon" #optional
+description='''
+A lootbags mod based on loot tables.
+''' #mandatory
